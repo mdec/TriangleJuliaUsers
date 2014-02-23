@@ -1,7 +1,7 @@
 # You can run code based on the operating system is that's detected
 # using the @unix, @osx, @windows, and @linux macros.
 
-# @[macro-name]? do-if-true : do-if-false
+# @[macro-name]? do-if-this-is-your-OS : do-otherwise
 
 # Trivial examples:
 @windows? println("Your operating system is Windows") : println("Your operating system is not Windows")
