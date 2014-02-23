@@ -1,7 +1,7 @@
 # Julia offers very simple parallel programming techniques.
 
 # For looping:
-    input = Int[1:100]
+    input = Int[1:100000]
 
     # Basic for loop
     println(">> Basic loop:")

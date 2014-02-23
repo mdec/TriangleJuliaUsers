@@ -18,4 +18,3 @@ toc()
     random_numbers = rand(n)
     random_sqrts = sqrt(random_numbers)
 end
-
