@@ -213,3 +213,10 @@ pip-log.txt
 
 #Mr Developer
 .mr.developer.cfg
+
+
+# graphics example files
+plot1.png
+plot2.png
+plot3.svg
+plot4.pdf
